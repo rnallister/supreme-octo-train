@@ -75,16 +75,6 @@
       ]
     },
     {
-      "rank": "Mod+",
-      "color": "#5555FF",
-      "users": [
-         {
-          "username": "dollarsignjay",
-          "uuid": "48e82fb82e1f4be5bafaafa28edc14bc"
-        }
-      ]
-    },
-    {
       "rank": "Senior Mod",
       "color": "#5555FF",
       "users": [
@@ -94,6 +84,16 @@
         {
           "username": "iusehuzuni",
           "uuid": "f660e28e-838b-4472-aecb-7e867e6a197d"
+        }
+      ]
+    },
+    {
+      "rank": "Mod+",
+      "color": "#5555FF",
+      "users": [
+         {
+          "username": "dollarsignjay",
+          "uuid": "48e82fb82e1f4be5bafaafa28edc14bc"
         }
       ]
     },
