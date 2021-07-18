@@ -104,6 +104,7 @@
         { "username": "Kcdy", "uuid": "2fc3381ec4d74ad3a334da919c90554e" },
         { "username": "Biometry", "uuid": "4d588cadc3294eb0bf350d5c70dd8ab3" },
         { "username": "vunsh", "uuid": "e76d7bd71b6143178418583238f91e38" },
+         { "username": "e_ic", "uuid": "5a33c5fcf1454fcea61b596fb05872b6" },
         { "username": "qtsiggy", "uuid": "94c5ba4e4373440ebc149f41d39a94a9" },
         { "username": "Zoyr", "uuid": "a762891fa45e4f1ca2835866ef663cca" },
         {
@@ -118,7 +119,6 @@
       "users": [
         { "username": "tzotic", "uuid": "c3f39262bf4f4d6e888477368a67e084" },
         { "username": "Breathe", "uuid": "be0cd1b5cc584296adef55d55a48dff8" },
-        { "username": "e_ic", "uuid": "5a33c5fcf1454fcea61b596fb05872b6" },
         { "username": "iimq", "uuid": "6edc0c6311c94d41b8e28e628f74aeaa" },
         { "username": "7evan7", "uuid": "787dbb1201294eba9bce57902ddd2bcc" }
       ]
