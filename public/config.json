@@ -49,6 +49,8 @@
           "uuid": "cf8e4902f0bb4b5f86b7bd1f04303d2c"
         },
         { "username": "samves", "uuid": "e21e880256e6401f807eb96a28b9e672" },
+                { "username": "Fanes", "uuid": "4cc8263d99c94e56bb3784b4a7b7fdc1" },
+        { "username": "MasterDa", "uuid": "f4a40dea96b0492e91e758ce0906ca47" },
         { "username": "Tadasu", "uuid": "c80bba404e16486fb7d6b43acd55722a" }
       ]
     },
@@ -56,8 +58,6 @@
       "rank": "Admin",
       "color": "#FF5555",
       "users": [
-        { "username": "Fanes", "uuid": "4cc8263d99c94e56bb3784b4a7b7fdc1" },
-        { "username": "MasterDa", "uuid": "f4a40dea96b0492e91e758ce0906ca47" },
         { "username": "gima", "uuid": "47fa01c92aed4a73a38e8f50efc9bb14" },
         {
           "username": "SenseiCurv",
