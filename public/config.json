@@ -36,6 +36,7 @@
       "color": "#FF5555",
       "users": [
         { "username": "Katherine", "uuid": "2529033d0a8c447a9d6b7497b6ef4918" },
+        { "username": "Accusal", "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc" },
         { "username": "Extinguish", "uuid": "7046aa16ebd14c26b9f63b2e66620da9" }
       ]
     },
@@ -48,7 +49,6 @@
           "uuid": "cf8e4902f0bb4b5f86b7bd1f04303d2c"
         },
         { "username": "samves", "uuid": "e21e880256e6401f807eb96a28b9e672" },
-        { "username": "Accusal", "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc" },
         { "username": "Tadasu", "uuid": "c80bba404e16486fb7d6b43acd55722a" }
       ]
     },
@@ -101,6 +101,7 @@
         { "username": "Breathe", "uuid": "be0cd1b5cc584296adef55d55a48dff8" },
         { "username": "vunsh", "uuid": "e76d7bd71b6143178418583238f91e38" },
          { "username": "e_ic", "uuid": "5a33c5fcf1454fcea61b596fb05872b6" },
+        { "username": "iimq", "uuid": "6edc0c6311c94d41b8e28e628f74aeaa" },
         { "username": "yuriella", "uuid": "ccfb8534-fbdf-4231-a590-6b937063e89b" },
         { "username": "tzotic", "uuid": "c3f39262bf4f4d6e888477368a67e084" },
         { "username": "Zoyr", "uuid": "a762891fa45e4f1ca2835866ef663cca" },
@@ -114,7 +115,6 @@
       "rank": "Trial Mod",
       "color": "#5555FF",
       "users": [
-        { "username": "iimq", "uuid": "6edc0c6311c94d41b8e28e628f74aeaa" },
         { "username": "7evan7", "uuid": "787dbb1201294eba9bce57902ddd2bcc" }
       ]
     }
