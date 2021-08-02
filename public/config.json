@@ -1,122 +1,198 @@
 {
-  "users": [
-    {
-      "rank": "Owner",
-      "color": "#AA0000",
-      "users": [
+    "users": [
         {
-          "username": "Intolerance",
-          "uuid": "4d69a89bb68f48589f6d4d7e9596bd61"
-        },
-        { "username": "StanMPL", "uuid": "6301c1444448460080ebd553cd6553ea" }
-      ]
-    },
-    {
-      "rank": "Developer",
-      "color": "#31C3C3",
-      "users": [
-        {
-          "username": "WMB",
-          "uuid": "93f49872-68d7-425d-b194-65130b2ab43e"
-        },
-        { "username": "_Real", "uuid": "dda58615-8553-45fe-ba50-61c3f87e1461" },
-        {
-          "username": "Javlin",
-          "uuid": "1654b6c5-e34e-495c-a248-e1c543bdca8b"
+            "rank": "Owner",
+            "color": "#AA0000",
+            "users": [
+                {
+                    "username": "Intolerance",
+                    "uuid": "4d69a89bb68f48589f6d4d7e9596bd61"
+                },
+                {
+                    "username": "StanMPL",
+                    "uuid": "6301c1444448460080ebd553cd6553ea"
+                }
+            ]
         },
         {
-          "username": "L1LLIAN",
-          "uuid": "88352a08-321e-48d0-83aa-1dca5e803ce2"
+            "rank": "Developer",
+            "color": "#31C3C3",
+            "users": [
+                {
+                    "username": "WMB",
+                    "uuid": "93f49872-68d7-425d-b194-65130b2ab43e"
+                },
+                {
+                    "username": "_Real",
+                    "uuid": "dda58615-8553-45fe-ba50-61c3f87e1461"
+                },
+                {
+                    "username": "Javlin",
+                    "uuid": "1654b6c5-e34e-495c-a248-e1c543bdca8b"
+                },
+                {
+                    "username": "L1LLIAN",
+                    "uuid": "88352a08-321e-48d0-83aa-1dca5e803ce2"
+                },
+                {
+                    "username": "Landen",
+                    "uuid": "e5d0fb4762da4eceb1ff2e08920f78b6"
+                }
+            ]
         },
-        { "username": "Landen", "uuid": "e5d0fb4762da4eceb1ff2e08920f78b6" }
-      ]
-    },
-    {
-      "rank": "Platform Admin",
-      "color": "#FF5555",
-      "users": [
-        { "username": "Katherine", "uuid": "2529033d0a8c447a9d6b7497b6ef4918" },
-        { "username": "Accusal", "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc" },
-        { "username": "Extinguish", "uuid": "7046aa16ebd14c26b9f63b2e66620da9" }
-      ]
-    },
-    {
-      "rank": "Senior Admin",
-      "color": "#FF5555",
-      "users": [
         {
-          "username": "UsingTheGear",
-          "uuid": "cf8e4902f0bb4b5f86b7bd1f04303d2c"
+            "rank": "Platform Admin",
+            "color": "#FF5555",
+            "users": [
+                {
+                    "username": "Katherine",
+                    "uuid": "2529033d0a8c447a9d6b7497b6ef4918"
+                },
+                {
+                    "username": "Accusal",
+                    "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"
+                },
+                {
+                    "username": "Extinguish",
+                    "uuid": "7046aa16ebd14c26b9f63b2e66620da9"
+                }
+            ]
         },
-        { "username": "samves", "uuid": "e21e880256e6401f807eb96a28b9e672" },
-                { "username": "Fanes", "uuid": "4cc8263d99c94e56bb3784b4a7b7fdc1" },
-        { "username": "MasterDa", "uuid": "f4a40dea96b0492e91e758ce0906ca47" },
-        { "username": "Tadasu", "uuid": "c80bba404e16486fb7d6b43acd55722a" }
-      ]
-    },
-    {
-      "rank": "Admin",
-      "color": "#FF5555",
-      "users": [
-        { "username": "gima", "uuid": "47fa01c92aed4a73a38e8f50efc9bb14" },
         {
-          "username": "SenseiCurv",
-          "uuid": "28cba1254d65410d9f2389e2cc02b6cf"
+            "rank": "Senior Admin",
+            "color": "#FF5555",
+            "users": [
+                {
+                    "username": "UsingTheGear",
+                    "uuid": "cf8e4902f0bb4b5f86b7bd1f04303d2c"
+                },
+                {
+                    "username": "samves",
+                    "uuid": "e21e880256e6401f807eb96a28b9e672"
+                },
+                {
+                    "username": "Fanes",
+                    "uuid": "4cc8263d99c94e56bb3784b4a7b7fdc1"
+                },
+                {
+                    "username": "MasterDa",
+                    "uuid": "f4a40dea96b0492e91e758ce0906ca47"
+                },
+                {
+                    "username": "Tadasu",
+                    "uuid": "c80bba404e16486fb7d6b43acd55722a"
+                }
+            ]
         },
-        { "username": "Shaya", "uuid": "946f76fadac2493da5143560f8a11bee" },
-        { "username": "Maises", "uuid": "33c9b0f477df424fbea8e026bebeaa55" }
-      ]
-    },
-    {
-      "rank": "Senior Mod",
-      "color": "#5555FF",
-      "users": [
-        { "username": "ImDolent", "uuid": "b8e77b1bb8d64b4b986108e8e0cb9d45" },
-        { "username": "Hettik", "uuid": "d708bd2b2e9f436caf059944f3372800" },
         {
-          "username": "iusehuzuni",
-          "uuid": "f660e28e-838b-4472-aecb-7e867e6a197d"
+            "rank": "Admin",
+            "color": "#FF5555",
+            "users": [
+                {
+                    "username": "SenseiCurv",
+                    "uuid": "28cba1254d65410d9f2389e2cc02b6cf"
+                }
+            ]
+        },
+        {
+            "rank": "Senior Mod",
+            "color": "#5555FF",
+            "users": [
+                {
+                    "username": "gima",
+                    "uuid": "47fa01c92aed4a73a38e8f50efc9bb14"
+                },
+                {
+                    "username": "Shaya",
+                    "uuid": "946f76fadac2493da5143560f8a11bee"
+                },
+                {
+                    "username": "Maises",
+                    "uuid": "33c9b0f477df424fbea8e026bebeaa55"
+                },
+                {
+                    "username": "iusehuzuni",
+                    "uuid": "f660e28e-838b-4472-aecb-7e867e6a197d"
+                }
+            ]
+        },
+        {
+            "rank": "Mod+",
+            "color": "#AA00AA",
+            "users": [
+                {
+                    "username": "PuffedUp",
+                    "uuid": "bb868c6c-6c5c-40e2-8db5-ecc9d35c10de"
+                },
+                {
+                    "username": "Lastro",
+                    "uuid": "8b0594c5-eea0-4705-88a7-378b486faf60"
+                },
+                {
+                    "username": "Kcdy",
+                    "uuid": "2fc3381ec4d74ad3a334da919c90554e"
+                },
+                {
+                    "username": "dollarsignjay",
+                    "uuid": "48e82fb82e1f4be5bafaafa28edc14bc"
+                }
+            ]
+        },
+        {
+            "rank": "Mod",
+            "color": "#AA00AA",
+            "users": [
+                {
+                    "username": "Biometry",
+                    "uuid": "4d588cadc3294eb0bf350d5c70dd8ab3"
+                },
+                {
+                    "username": "Wrexzy",
+                    "uuid": "1cf04cf0-54b9-4f94-b5b0-4a8a2d2f6865"
+                },
+                {
+                    "username": "Breathe",
+                    "uuid": "be0cd1b5cc584296adef55d55a48dff8"
+                },
+                {
+                    "username": "vunsh",
+                    "uuid": "e76d7bd71b6143178418583238f91e38"
+                },
+                {
+                    "username": "e_ic",
+                    "uuid": "5a33c5fcf1454fcea61b596fb05872b6"
+                },
+                {
+                    "username": "iimq",
+                    "uuid": "6edc0c6311c94d41b8e28e628f74aeaa"
+                },
+                {
+                    "username": "yuriella",
+                    "uuid": "ccfb8534-fbdf-4231-a590-6b937063e89b"
+                },
+                {
+                    "username": "tzotic",
+                    "uuid": "c3f39262bf4f4d6e888477368a67e084"
+                },
+                {
+                    "username": "Zoyr",
+                    "uuid": "a762891fa45e4f1ca2835866ef663cca"
+                },
+                {
+                    "username": "Specularburrito",
+                    "uuid": "ebb4aaeffea047ee85f78044596bec79"
+                }
+            ]
+        },
+        {
+            "rank": "Trial Mod",
+            "color": "#5555FF",
+            "users": [
+                {
+                    "username": "7evan7",
+                    "uuid": "787dbb1201294eba9bce57902ddd2bcc"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "rank": "Mod+",
-      "color": "#AA00AA",
-      "users": [
-          { "username": "PuffedUp", "uuid": "bb868c6c-6c5c-40e2-8db5-ecc9d35c10de" },
-        { "username": "Lastro", "uuid": "8b0594c5-eea0-4705-88a7-378b486faf60" },
-         { "username": "Kcdy", "uuid": "2fc3381ec4d74ad3a334da919c90554e" },
-        {
-          "username": "dollarsignjay",
-          "uuid": "48e82fb82e1f4be5bafaafa28edc14bc"
-        }
-      ]
-    },
-    {
-      "rank": "Mod",
-      "color": "#AA00AA",
-      "users": [
-        { "username": "Biometry", "uuid": "4d588cadc3294eb0bf350d5c70dd8ab3" },
-        { "username": "Wrexzy", "uuid": "1cf04cf0-54b9-4f94-b5b0-4a8a2d2f6865" },
-        { "username": "Breathe", "uuid": "be0cd1b5cc584296adef55d55a48dff8" },
-        { "username": "vunsh", "uuid": "e76d7bd71b6143178418583238f91e38" },
-         { "username": "e_ic", "uuid": "5a33c5fcf1454fcea61b596fb05872b6" },
-        { "username": "iimq", "uuid": "6edc0c6311c94d41b8e28e628f74aeaa" },
-        { "username": "yuriella", "uuid": "ccfb8534-fbdf-4231-a590-6b937063e89b" },
-        { "username": "tzotic", "uuid": "c3f39262bf4f4d6e888477368a67e084" },
-        { "username": "Zoyr", "uuid": "a762891fa45e4f1ca2835866ef663cca" },
-        {
-          "username": "Specularburrito",
-          "uuid": "ebb4aaeffea047ee85f78044596bec79"
-        }
-      ]
-    },
-    {
-      "rank": "Trial Mod",
-      "color": "#5555FF",
-      "users": [
-        { "username": "7evan7", "uuid": "787dbb1201294eba9bce57902ddd2bcc" }
-      ]
-    }
-  ]
+    ]
 }
