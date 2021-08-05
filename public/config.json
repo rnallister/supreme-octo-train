@@ -88,7 +88,7 @@
                     "username": "SenseiCurv",
                     "uuid": "28cba1254d65410d9f2389e2cc02b6cf"
                 },
-                 {
+                {
                     "username": "iusehuzuni",
                     "uuid": "f660e28e-838b-4472-aecb-7e867e6a197d"
                 }
@@ -102,8 +102,7 @@
                     "username": "Shaya",
                     "uuid": "946f76fadac2493da5143560f8a11bee"
                 }
-                
-                ]
+            ]
         },
         {
             "rank": "Mod+",
@@ -117,9 +116,13 @@
                     "username": "Lastro",
                     "uuid": "8b0594c5-eea0-4705-88a7-378b486faf60"
                 },
-                 {
+                {
                     "username": "Breathe",
                     "uuid": "be0cd1b5cc584296adef55d55a48dff8"
+                },
+                {
+                    "username": "Biometry",
+                    "uuid": "4d588cadc3294eb0bf350d5c70dd8ab3"
                 },
                 {
                     "username": "dollarsignjay",
@@ -131,10 +134,6 @@
             "rank": "Mod",
             "color": "#AA00AA",
             "users": [
-                {
-                    "username": "Biometry",
-                    "uuid": "4d588cadc3294eb0bf350d5c70dd8ab3"
-                },
                 {
                     "username": "Wrexzy",
                     "uuid": "1cf04cf0-54b9-4f94-b5b0-4a8a2d2f6865"
