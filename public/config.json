@@ -37,6 +37,10 @@
                 {
                     "username": "Landen",
                     "uuid": "e5d0fb4762da4eceb1ff2e08920f78b6"
+                },
+                {
+                    "username": "utf_",
+                    "uuid": "0cd620fc-744c-45e3-b844-c7094841ce66"
                 }
             ]
         },
@@ -123,10 +127,6 @@
                 {
                     "username": "Biometry",
                     "uuid": "4d588cadc3294eb0bf350d5c70dd8ab3"
-                },
-                {
-                    "username": "dollarsignjay",
-                    "uuid": "48e82fb82e1f4be5bafaafa28edc14bc"
                 }
             ]
         },
