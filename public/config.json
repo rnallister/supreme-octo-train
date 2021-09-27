@@ -151,10 +151,6 @@
                     "uuid": "5a33c5fcf1454fcea61b596fb05872b6"
                 },
                 {
-                    "username": "iimq",
-                    "uuid": "6edc0c6311c94d41b8e28e628f74aeaa"
-                },
-                {
                     "username": "yuriella",
                     "uuid": "ccfb8534-fbdf-4231-a590-6b937063e89b"
                 },
@@ -169,17 +165,18 @@
                 {
                     "username": "Specularburrito",
                     "uuid": "ebb4aaeffea047ee85f78044596bec79"
+                },
+                {
+                    "username": "7evan7",
+                    "uuid": "787dbb1201294eba9bce57902ddd2bcc"
                 }
+
             ]
         },
         {
             "rank": "Trial Mod",
             "color": "#5555FF",
             "users": [
-                {
-                    "username": "7evan7",
-                    "uuid": "787dbb1201294eba9bce57902ddd2bcc"
-                }
             ]
         }
     ]
